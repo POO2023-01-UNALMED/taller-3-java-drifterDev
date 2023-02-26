@@ -18,7 +18,6 @@ public class TV {
 		this.setNumTV(getNumTV()+1);
 	}
 	public void setNumTV(int num) {
-		numTV=num;
 	}
 	public Marca getMarca() {
 		return this.marca;
